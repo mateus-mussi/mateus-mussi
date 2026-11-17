@@ -12,7 +12,7 @@ Uso o GitHub para compartilhar meus projetos, acompanhar minha evolução e colo
 
 Este é o projeto que quero destacar no meu portfólio. Desenvolvido em equipe, ele reúne **simulação de investimentos, gráficos interativos, controle de receitas e despesas e um modelo didático de holerite**.
 
-Trabalhei com **Python, Flask, Dash, Pandas e Plotly**, além de bibliotecas para consultar indicadores financeiros. Venho organizando o código, corrigindo cálculos e adicionando testes automatizados. Ainda quero aprofundar os testes das integrações com dados reais.
+Trabalhei com **Python, Flask, Dash, Pandas e Plotly**, além de bibliotecas para consultar indicadores financeiros. Organizei o código, corrigi cálculos e adicionei testes automatizados para acompanhar o funcionamento da aplicação.
 
 ### 🎨 [Brasil em Telas](https://github.com/mateus-mussi/brasil-em-telas)
 
