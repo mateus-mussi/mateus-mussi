@@ -1,14 +1,28 @@
-# Olá! Sou Mateus Mussi 👋
+# Oi, eu sou o Mateus! 👋
 
-**Graduando em Análise e Desenvolvimento de Sistemas (ADS) na UDF | Python • Desenvolvimento web • APIs • Integração de sistemas • IoT**
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UDF** e gosto de entender como a tecnologia pode resolver problemas do dia a dia.
 
-Minha trajetória reúne experiências com soluções de rastreamento, telemetria e integração de equipamentos e minha formação em desenvolvimento de software. Tenho contato com dispositivos conectados, redes CAN/J1939 e plataformas de monitoramento. Na faculdade, desenvolvo projetos práticos e aprofundo meus conhecimentos em programação, aplicações web, análise de dados e documentação técnica.
+Tenho interesse por **Python, desenvolvimento web, APIs e integração de sistemas**. Também gosto bastante de temas ligados a **rastreamento GPS, telemetria e IoT**, principalmente quando envolvem comunicação entre equipamentos e plataformas.
 
-🎯 **Objetivo profissional:** desenvolver soluções de software úteis e bem documentadas, conectando sistemas, dados e dispositivos, com aprendizado contínuo em desenvolvimento e integração de tecnologias.
+Uso o GitHub para compartilhar meus projetos, acompanhar minha evolução e colocar em prática o que aprendo.
 
-## 🛠️ Tecnologias e ferramentas
+## 🚀 Meus projetos
 
-**Programação e web — projetos e estudos**
+### ⭐ [Simulador Financeiro em Python](https://github.com/mateus-mussi/simulador-financeiro-python)
+
+Este é o projeto que quero destacar no meu portfólio. Desenvolvido em equipe, ele reúne **simulação de investimentos, gráficos interativos, controle de receitas e despesas e um modelo didático de holerite**.
+
+Trabalhei com **Python, Flask, Dash, Pandas e Plotly**, além de bibliotecas para consultar indicadores financeiros. Venho organizando o código, corrigindo cálculos e adicionando testes automatizados. Ainda quero aprofundar os testes das integrações com dados reais.
+
+### 🎨 [Brasil em Telas](https://github.com/mateus-mussi/brasil-em-telas)
+
+Site que desenvolvi em parceria com **Clarice Gabriela** para apresentar a pintura e diferentes aspectos da cultura brasileira. Usei **HTML, CSS e JavaScript** para montar uma página com navegação por seções, galeria de imagens e layout adaptável.
+
+### 🔧 [Desafio Colaborativo Git](https://github.com/mateus-mussi/desafio-colaborativo-git)
+
+Um dos meus exercícios de introdução ao **Git e ao GitHub**, que faz parte do meu aprendizado sobre organização de repositórios e versionamento.
+
+## 🛠️ Tecnologias que venho utilizando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -19,39 +33,15 @@ Minha trajetória reúne experiências com soluções de rastreamento, telemetri
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-**Interesses e atuação:** APIs REST, JSON, automação, telemetria GPS, IoT, protocolos de comunicação e integração de sistemas.
+Além dessas ferramentas, tenho interesse em **APIs REST, JSON, automação, CAN/J1939 e comunicação com dispositivos conectados**.
 
-## 🚀 Projetos
+## 📖 O que tenho aprendido
 
-### ⭐ Projeto principal — Sistema de Gestão Financeira em Python
+Uma coisa que venho percebendo é que um projeto não termina quando o código funciona. Documentar, testar, corrigir e organizar o repositório também fazem parte do desenvolvimento.
 
-**[sistema-gestao-financeira-python](https://github.com/mateus-mussi/simulador-financeiro-python)** — aplicação acadêmica em equipe desenvolvida em **Python, Flask, Dash, Plotly e Pandas**. Reúne simulação de investimentos, indicadores financeiros, visualização gráfica e módulos complementares para controle de gastos e geração ilustrativa de holerites.
+Para melhorar a apresentação dos meus trabalhos, analisei dez perfis de desenvolvedores e reuni [minhas observações sobre documentação e organização de projetos](docs/benchmarking.md).
 
-O projeto está em evolução: algumas funcionalidades ainda exigem validação dos cálculos, testes das integrações externas e ajustes de segurança.
-
-### Outros projetos
-
-- **[Brasil em Telas](https://github.com/mateus-mussi/brasil-em-telas)** — site acadêmico desenvolvido em HTML, CSS e JavaScript com apresentação da pintura e da diversidade cultural brasileira.
-- **[Desafio colaborativo Git](https://github.com/mateus-mussi/desafio-colaborativo-git)** — exercício de Git, GitHub e versionamento colaborativo.
-
-## 🔎 Benchmarking profissional
-
-Ao pesquisar dez perfis profissionais no GitHub, percebi a importância de uma apresentação objetiva.  
-As melhores bios informam a especialidade técnica de maneira clara e sem excesso de elementos visuais.  
-Os projetos fixados funcionam como uma curadoria dos trabalhos mais relevantes de cada pessoa.  
-Em perfis como os de Loiane Groner e Jeff Geerling, a organização facilita a navegação.  
-Também observei que nomes descritivos ajudam a compreender o objetivo dos repositórios.  
-Um README útil explica o problema, as tecnologias, os requisitos e o modo de execução.  
-ArduinoJson e TinyGSM são boas referências de exemplos práticos e documentação técnica.  
-A presença de LICENSE e .gitignore demonstra atenção à distribuição e à organização do código.  
-Os topics melhoram a identificação e a descoberta dos projetos pela comunidade.  
-O histórico de contribuições revela participação, mas não substitui a qualidade do trabalho.  
-Busquei aplicar essas referências ao estruturar meus projetos acadêmicos e profissionais.  
-Quero que meu GitHub evidencie minha evolução em software, integração de sistemas e IoT.
-
-📄 **[Ver os 10 perfis analisados e as boas práticas observadas](docs/benchmarking.md)**
-
-## 📬 Contato
+## 📫 Contato
 
 - **E-mail:** [mateus.mussi@gmail.com](mailto:mateus.mussi@gmail.com)
-- **GitHub:** [github.com/mateus-mussi](https://github.com/mateus-mussi)
+- **GitHub:** [@mateus-mussi](https://github.com/mateus-mussi)
