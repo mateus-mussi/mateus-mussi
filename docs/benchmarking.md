@@ -1,54 +1,43 @@
-# Etapa 1 — Benchmarking de 10 perfis profissionais
+# O que aprendi analisando outros perfis no GitHub
 
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS), UDF  
-**Área de interesse:** desenvolvimento de software, integração de sistemas, automação e Internet das Coisas (IoT).
+Quando comecei a organizar melhor meu GitHub, procurei perfis de desenvolvedores que trabalham com tecnologias que me interessam, como **desenvolvimento web, Python, integrações, automação e IoT**.
 
-## Objetivo e método
+Queria observar como eles apresentam seus projetos e o que torna um repositório mais fácil de entender para quem está chegando.
 
-Foram pesquisados dez perfis profissionais públicos no GitHub, comparando apresentação, repositórios em destaque, clareza na nomenclatura, documentação técnica, exemplos de uso, licenciamento e participação na comunidade. A pesquisa não substitui a confirmação de que cada perfil foi efetivamente seguido na conta.
+## Os dez perfis que analisei
 
-## Perfis analisados
+| Perfil | O que me chamou a atenção |
+|---|---|
+| [Loiane Groner](https://github.com/loiane) | Projetos e materiais voltados ao aprendizado de Java e Angular. Gostei da forma de apresentar exemplos. |
+| [Erick Wendel](https://github.com/erickwendel) | Repositórios de JavaScript e Node.js com foco em aplicações e integrações. |
+| [Diego Fernandes](https://github.com/diego3g) | Projetos ligados ao desenvolvimento web e às ferramentas usadas no dia a dia. |
+| [Filipe Deschamps](https://github.com/filipedeschamps) | Projetos que valorizam o uso prático do código e a participação de outras pessoas. |
+| [Anurag Hazra](https://github.com/anuraghazra) | A personalização do perfil e projetos voltados a ferramentas para desenvolvedores. |
+| [Sindre Sorhus](https://github.com/sindresorhus) | Nomes claros para repositórios e organização de ferramentas open source. |
+| [Jeff Geerling](https://github.com/geerlingguy) | Documentação de automação, infraestrutura e projetos com Raspberry Pi. |
+| [Benoît Blanchon](https://github.com/bblanchon) | O projeto ArduinoJson, com exemplos e documentação para quem trabalha com dispositivos. |
+| [Volodymyr Shymanskyy](https://github.com/vshymanskyy) | O TinyGSM e seus exemplos de comunicação com equipamentos conectados. |
+| [Paul Stoffregen](https://github.com/PaulStoffregen) | Bibliotecas e projetos relacionados a microcontroladores. |
 
-| Profissional | Área de referência | Prática observada |
-|---|---|---|
-| [Loiane Groner](https://github.com/loiane) | Java, Angular e engenharia de software | Projeto `crud-angular-spring` com documentação e licença |
-| [Erick Wendel](https://github.com/erickwendel) | JavaScript, Node.js e integrações | Repositórios nomeados para comunicar casos de uso e integração |
-| [Diego Fernandes](https://github.com/diego3g) | Desenvolvimento web e mobile | Apresentação enxuta e seleção de ferramentas desenvolvidas |
-| [Filipe Deschamps](https://github.com/filipedeschamps) | Desenvolvimento web e comunidade | Projetos de uso real e participação colaborativa |
-| [Anurag Hazra](https://github.com/anuraghazra) | Front-end e TypeScript | README pessoal e projetos de ferramentas em TypeScript |
-| [Sindre Sorhus](https://github.com/sindresorhus) | JavaScript, TypeScript e open source | Nomes e descrições claros nos repositórios |
-| [Jeff Geerling](https://github.com/geerlingguy) | DevOps, Ansible e Raspberry Pi | Guias de uso e estrutura para automação |
-| [Benoît Blanchon](https://github.com/bblanchon) | C++, Arduino e IoT | `ArduinoJson`: exemplos, README técnico e licença |
-| [Volodymyr Shymanskyy](https://github.com/vshymanskyy) | IoT e conectividade celular | `TinyGSM`: exemplos e solução de problemas |
-| [Paul Stoffregen](https://github.com/PaulStoffregen) | Microcontroladores | Bibliotecas de software e repositórios de fácil identificação |
+## O que quero aplicar nos meus repositórios
 
-## Síntese comparativa
+Percebi que não basta ter código publicado: um README que explique o objetivo do projeto, as tecnologias e como executar a aplicação faz bastante diferença.
 
-**Apresentação profissional:** a bio informa a especialidade técnica em poucas linhas; há perfis com README elaborado e outros com uma apresentação mais simples.
+Também gostei da ideia de deixar em destaque os trabalhos que melhor representam aquilo que estou aprendendo. Por isso, quero que meu **Simulador Financeiro em Python** tenha uma apresentação clara, com imagens, instruções e testes, e que os outros projetos também sejam fáceis de navegar.
 
-**Curadoria de repositórios:** os projetos destacados ajudam a mostrar competências e contribuições concretas. Nem todos os perfis utilizam pins personalizados.
+Outra coisa que passei a observar são os arquivos `LICENSE`, `.gitignore`, a organização das pastas e os exemplos de uso. Quero melhorar esses detalhes nos meus projetos, sempre respeitando os créditos de quem trabalhou comigo.
 
-**Documentação:** READMEs com objetivo, pré-requisitos, instalação, exemplos e troubleshooting são mais úteis para quem deseja compreender ou executar o código.
+## Minha reflexão
 
-**Licença, organização e descoberta:** `LICENSE`, `.gitignore`, nomes descritivos e *topics* facilitam a reutilização e a organização.
-
-**Atividade profissional:** a participação pública é um indicativo de envolvimento, mas não substitui a qualidade do código e da documentação.
-
-## Reflexão pessoal (12 linhas)
-
-Ao pesquisar dez perfis profissionais no GitHub, percebi a importância de uma apresentação objetiva.  
-As melhores bios informam a especialidade técnica de maneira clara e sem excesso de elementos visuais.  
-Os projetos fixados funcionam como uma curadoria dos trabalhos mais relevantes de cada pessoa.  
-Em perfis como os de Loiane Groner e Jeff Geerling, a organização facilita a navegação.  
-Também observei que nomes descritivos ajudam a compreender o objetivo dos repositórios.  
-Um README útil explica o problema, as tecnologias, os requisitos e o modo de execução.  
-ArduinoJson e TinyGSM são boas referências de exemplos práticos e documentação técnica.  
-A presença de LICENSE e .gitignore demonstra atenção à distribuição e à organização do código.  
-Os topics melhoram a identificação e a descoberta dos projetos pela comunidade.  
-O histórico de contribuições revela participação, mas não substitui a qualidade do trabalho.  
-Busquei aplicar essas referências ao estruturar meus projetos acadêmicos e profissionais.  
-Quero que meu GitHub evidencie minha evolução em software, integração de sistemas e IoT.
-
----
-
-**Pendente de conferência antes da entrega:** confirmar que os dez perfis desta pesquisa foram seguidos e que o projeto destacado como trabalho de 2026.2 pertence efetivamente ao semestre.
+Ao conhecer outros perfis no GitHub, entendi melhor como apresentar meu trabalho.  
+Vi que uma descrição simples pode mostrar com clareza as tecnologias que usamos.  
+Também percebi que os projetos em destaque ajudam a contar nossa trajetória.  
+Gostei de ver repositórios com nomes que explicam o que o código faz.  
+Os READMEs mais úteis mostram como instalar, executar e entender o projeto.  
+Os exemplos práticos facilitam bastante o aprendizado de quem está começando.  
+Nos projetos de IoT, me chamaram a atenção as explicações sobre integração.  
+Aprendi a prestar mais atenção à organização dos arquivos e à documentação.  
+Entendi também a importância das licenças e dos créditos de cada trabalho.  
+Quero aplicar essas ideias sem deixar meu perfil com uma aparência artificial.  
+Meu objetivo é mostrar o que já fiz e o que ainda estou aprendendo.  
+Vou continuar melhorando os repositórios conforme desenvolver novos projetos.
