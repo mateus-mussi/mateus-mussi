@@ -23,16 +23,21 @@ Minha trajetória reúne experiências com soluções de rastreamento, telemetri
 
 ## 🚀 Projetos
 
-### Publicados
+### ⭐ Projeto principal — Simulador Financeiro em Python
+
+**Simulador Financeiro (Python, Flask, Dash e Plotly)** — projeto acadêmico em equipe que combina **simulação de investimentos** com gráficos interativos, consulta a indicadores financeiros e análise de resultados. Inclui módulos complementares de controle de gastos e geração demonstrativa de holerites, com uso de Pandas, APIs financeiras e planilhas Excel.
+
+**Status:** código preparado e revisado inicialmente, **aguardando criação do repositório público** para publicação. A execução integral e os cálculos financeiros ainda precisam ser validados. Trabalho de semestre anterior.
+
+### 📚 Projeto acadêmico de 2026.2
+
+- **[Brasil em Telas — Desenvolvimento Front-End para Web](https://github.com/mateus-mussi/brasil-em-telas)** — projeto da UDF desenvolvido em equipe com HTML, CSS, JavaScript e galeria de imagens, documentado e publicado.
+
+### 🔧 Outros projetos
 
 - **[Desafio colaborativo Git](https://github.com/mateus-mussi/desafio-colaborativo-git)** — exercício de introdução ao Git e GitHub, com foco em versionamento e colaboração.
 
-- **[Brasil em Telas — Desenvolvimento Front-End para Web (2026.2)](https://github.com/mateus-mussi/brasil-em-telas)** — projeto acadêmico da UDF, desenvolvido em equipe com HTML, CSS e navegação por seções; imagens originais publicadas na pasta `img/`.
-
-### Em preparação para publicação
-- **Sistema de gestão financeira em Python** — protótipo acadêmico em equipe com simulação de investimentos, holerites e controle financeiro, utilizando Python, Flask, Dash e Pandas.
-
-> Os projetos em preparação serão vinculados aqui após a publicação. O projeto **Brasil em Telas** foi realizado no semestre **2026.2**, na disciplina **Desenvolvimento Front-End para Web**.
+> **Organização para a avaliação A2:** o Simulador Financeiro é meu projeto principal de portfólio; o Brasil em Telas atende especificamente ao requisito de projeto desenvolvido no semestre **2026.2**. Para a atividade, o projeto do semestre deve ocupar a primeira posição entre os repositórios fixados, mesmo que outro projeto receba mais destaque no README.
 
 ## 🔎 Benchmarking profissional — Reflexão (12 linhas)
 
