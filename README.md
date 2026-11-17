@@ -34,7 +34,7 @@ O projeto está em evolução: algumas funcionalidades ainda exigem validação 
 - **[Brasil em Telas](https://github.com/mateus-mussi/brasil-em-telas)** — site acadêmico desenvolvido em HTML, CSS e JavaScript com apresentação da pintura e da diversidade cultural brasileira.
 - **[Desafio colaborativo Git](https://github.com/mateus-mussi/desafio-colaborativo-git)** — exercício de Git, GitHub e versionamento colaborativo.
 
-## 🔎 Benchmarking profissional — Reflexão (12 linhas)
+## 🔎 Benchmarking profissional
 
 Ao pesquisar dez perfis profissionais no GitHub, percebi a importância de uma apresentação objetiva.  
 As melhores bios informam a especialidade técnica de maneira clara e sem excesso de elementos visuais.  
