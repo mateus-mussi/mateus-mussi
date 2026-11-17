@@ -27,7 +27,7 @@ Minha trajetória reúne experiências com soluções de rastreamento, telemetri
 
 - **[Desafio colaborativo Git](https://github.com/mateus-mussi/desafio-colaborativo-git)** — exercício de introdução ao Git e GitHub, com foco em versionamento e colaboração.
 
-- **[Brasil em Telas — Desenvolvimento Front-End para Web (2026.2)](https://github.com/mateus-mussi/brasil-em-telas)** — projeto acadêmico da UDF, desenvolvido em equipe com HTML, CSS e navegação por seções; as imagens originais estão em preparação para publicação.
+- **[Brasil em Telas — Desenvolvimento Front-End para Web (2026.2)](https://github.com/mateus-mussi/brasil-em-telas)** — projeto acadêmico da UDF, desenvolvido em equipe com HTML, CSS e navegação por seções; imagens originais publicadas na pasta `img/`.
 
 ### Em preparação para publicação
 - **Sistema de gestão financeira em Python** — protótipo acadêmico em equipe com simulação de investimentos, holerites e controle financeiro, utilizando Python, Flask, Dash e Pandas.
