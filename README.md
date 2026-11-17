@@ -23,13 +23,13 @@ Minha trajetória reúne experiências com soluções de rastreamento, telemetri
 
 ## 🚀 Projetos
 
-### Publicado
+### Publicados
 
 - **[Desafio colaborativo Git](https://github.com/mateus-mussi/desafio-colaborativo-git)** — exercício de introdução ao Git e GitHub, com foco em versionamento e colaboração.
 
-### Em preparação para publicação
+- **[Brasil em Telas](https://github.com/mateus-mussi/brasil-em-telas)** — site acadêmico em HTML e CSS dedicado à pintura e à diversidade cultural brasileira, desenvolvido em equipe; versão demonstrativa publicada (imagens originais ainda pendentes).
 
-- **Brasil em Telas** — site acadêmico em HTML e CSS dedicado à pintura e à diversidade cultural brasileira, desenvolvido em equipe.
+### Em preparação para publicação
 - **Sistema de gestão financeira em Python** — protótipo acadêmico em equipe com simulação de investimentos, holerites e controle financeiro, utilizando Python, Flask, Dash e Pandas.
 
 > Os projetos em preparação serão vinculados aqui após a publicação. O projeto exigido para o semestre **2026.2** ainda precisa ser confirmado antes da entrega acadêmica.
